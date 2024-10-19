@@ -8,8 +8,9 @@ Welcome to my GitHub! I'm a front-end developer specializing in React, JavaScrip
 - 💻 Check out my portfolio:https://h-portfolio-1.netlify.app/
 - 📫 How to reach me: oubakassehassane7@gmail.com
   
-- ⚡ > *"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."*  
-> — *Patrick McKenzie*
+- ⚡> **"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."**  
+> — **Patrick McKenzie**
+
 
 
 ## Technologies I Use
