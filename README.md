@@ -1,12 +1,16 @@
-# Hi there! 👋 I'm [Your Name] 
+# Hi there! 👋 I'm Hassane 
 
 Welcome to my GitHub! I'm a front-end developer specializing in React, JavaScript, HTML/CSS, and Tailwind CSS.
 
-- 🛠️ I'm currently working on [SuiviCrypto](https://github.com/yourusername/suivicrypto) - a real-time cryptocurrency tracker app.
-- 🔥 I'm passionate about web development and creating responsive, user-friendly interfaces.
-- 💻 Check out my portfolio: [your-portfolio-link](https://your-portfolio.com)
-- 📫 How to reach me: [your-email](mailto:your-email@example.com)
-- ⚡ Fun fact: I enjoy experimenting with 3D CSS animations and building dynamic web apps!
+- 🔥 I've been enjoying front-end development ever since I built my first React project, "SuiviCrypto." Bringing designs to life with React and Tailwind has made me love the creative side of development. I'm currently looking for a role in front-end development where I can continue building dynamic, responsive web applications. I'd love to work on a collaborative team where I can contribute quickly. If you're hiring, let's connect!
+
+- 🛠️ I'm passionate about web development and creating responsive, user-friendly interfaces.
+- 💻 Check out my portfolio:https://h-portfolio-1.netlify.app/
+- 📫 How to reach me: oubakassehassane7@gmail.com
+  
+- ⚡ > *"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."*  
+> — *Patrick McKenzie*
+
 
 ## Technologies I Use
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
