@@ -26,3 +26,7 @@ Welcome to my GitHub! I'm a front-end developer specializing in React, JavaScrip
 
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassane01&layout=compact&theme=radical)
+## 💬 Favorite Quote
+
+> *"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."*  
+> — **Patrick McKenzie** ✨
